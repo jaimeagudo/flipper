@@ -175,7 +175,7 @@
     "cross-env": "^7.0.2",
     "detect-port": "^1.1.1",
     "dotenv": "^8.2.0",
-    "electron": "11.1.0",
+    "electron": "42.11.16",
     "electron-builder": "22.9.1",
     "@adobe/node-fetch-retry": "^1.1.0",
     "app-builder-lib": "22.9.1",
